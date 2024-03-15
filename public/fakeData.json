@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "image": "https://media.istockphoto.com/id/1089759056/photo/background-healthy-food-fresh-fruits-vegetables-fish-berries-and-cereals-healthy-food-diet.webp?b=1&s=170667a&w=0&k=20&c=c6DSbu2C6Fm4t0Nv5-yWyp8Sa6f39WEAH1_SsACpKfo=",
+        "title": "Spaghetti Bolognese",
+        "description": "Classic Italian pasta dish with savory meat sauce",
+        "ingredients": [
+            { "name": "ground beef 500g"},
+            { "name": "onion"},
+            { "name": "1_chopped"},
+            { "name": "garlic 2_cloves"},
+            { "name": "minced"}
+        ],        
+        "time": 30,
+        "calories": 300
+    },
+    {
+        "id": 2,
+        "image": "https://media.istockphoto.com/id/1457889029/photo/group-of-food-with-high-content-of-dietary-fiber-arranged-side-by-side.webp?b=1&s=170667a&w=0&k=20&c=qHX9JbVQRq0We9xvd5qUN1nW5lMD8nAeT5Ts4gKYBg8=",
+        "title": "Recipe 2",
+        "description": "Description of Recipe 2",
+        "ingredients": [
+            { "name": "ingredient 1"},
+            { "name": "ingredient 2"},
+            { "name": "ingredient 3"},
+            { "name": "ingredient 4"},
+            { "name": "ingredient 5"}
+        ],        
+        "time": 45,
+        "calories": 400
+    },
+    {
+        "id": 3,
+        "image": "https://media.istockphoto.com/id/1232401725/photo/table-scene-of-assorted-take-out-or-delivery-foods-top-down-view-on-a-dark-wood-banner.webp?b=1&s=170667a&w=0&k=20&c=bpy-x48E5Mcq3hzPPGmJdUmprT1Rurk_PwVEjuqoAys=",
+        "title": "Recipe 3",
+        "description": "Description of Recipe 3",
+        "ingredients": [
+            { "name": "ingredient 1"},
+            { "name": "ingredient 2"},
+            { "name": "ingredient 3"},
+            { "name": "ingredient 4"},
+            { "name": "ingredient 5"}
+        ],        
+        "time": 25,
+        "calories": 250
+    },
+    {
+        "id": 4,
+        "image": "https://media.istockphoto.com/id/1449519051/photo/uzbek-prepared-boiled-manti-or-manty-dumplings-in-a-traditional-bowl-on-wooden-table.webp?b=1&s=170667a&w=0&k=20&c=AaNN_2KR31liPNRa1oLkwThvxGGN0aWEnBuJaGjqVD4=",
+        "title": "Recipe 4",
+        "description": "Description of Recipe 4",
+        "ingredients": [
+            { "name": "ingredient 1"},
+            { "name": "ingredient 2"},
+            { "name": "ingredient 3"},
+            { "name": "ingredient 4"},
+            { "name": "ingredient 5"}
+        ],        
+        "time": 60,
+        "calories": 500
+    },
+    {
+        "id": 5,
+        "image": "https://media.istockphoto.com/id/1222770403/photo/pasta-assortment-of-italian-pasta-dishes-including-spaghetti-bolognese-penne-with-chicken.webp?b=1&s=170667a&w=0&k=20&c=KgYTCnrPBF1Nj5pBt-yDwf9Hkx1etna9mCKQFu9TWyY=",
+        "title": "Recipe 5",
+        "description": "Description of Recipe 5",
+        "ingredients": [
+            { "name": "ingredient 1"},
+            { "name": "ingredient 2"},
+            { "name": "ingredient 3"},
+            { "name": "ingredient 4"},
+            { "name": "ingredient 5"}
+        ],        
+        "time": 20,
+        "calories": 200
+    },
+    {
+        "id": 6,
+        "image": "https://images.unsplash.com/photo-1437750769465-301382cdf094?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGZvb2QlMjBpbWd8ZW58MHx8MHx8fDA%3D",
+        "title": "Recipe 6",
+        "description": "Description of Recipe 6",
+        "ingredients": [
+            { "name": "ingredient 1"},
+            { "name": "ingredient 2"},
+            { "name": "ingredient 3"},
+            { "name": "ingredient 4"},
+            { "name": "ingredient 5"}
+        ],        
+        "time": 40,
+        "calories": 350
+    }
+]
